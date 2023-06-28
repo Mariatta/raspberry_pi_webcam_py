@@ -1,0 +1,1 @@
+0 */1 * * * python /home/mariatta/mu_code/raspberrypi_webcam.py
